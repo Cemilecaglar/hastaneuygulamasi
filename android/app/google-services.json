@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333194283554",
+    "project_id": "cephastane-9cd24",
+    "storage_bucket": "cephastane-9cd24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333194283554:android:2fe49989b9d5bdacbe587b",
+        "android_client_info": {
+          "package_name": "com.example.hastaneuygulamasii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333194283554-4ubieug278627fj20gcmcg4p8pf0ljss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPurB5cfP94ZcAJfurJhq_54wQmen1IOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333194283554-4ubieug278627fj20gcmcg4p8pf0ljss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
